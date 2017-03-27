@@ -1,0 +1,22 @@
+{
+  "name": "calculator-in-redux",
+  "version": "1.0.0",
+  "description": "making a calculator in redux",
+  "main": "Calculator.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makoi81/CalculatorInRedux.git"
+  },
+  "author": "Mahamadou KOITA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makoi81/CalculatorInRedux/issues"
+  },
+  "homepage": "https://github.com/makoi81/CalculatorInRedux#readme",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
